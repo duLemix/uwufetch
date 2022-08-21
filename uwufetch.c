@@ -400,7 +400,7 @@ void uwu_name(struct configuration* config_flags, struct info* user_info) {
 	else STRING_TO_UWU("arch", "Nyarch Linuwu");
 	else STRING_TO_UWU("arcolinux", "ArcOwO Linuwu");
 	else STRING_TO_UWU("artix", "Nyartix Linuwu");
-	else STRING_TO_UWU("curtainos", "Cuwtain OwOpewating Systems");
+	else STRING_TO_UWU("curtainos", "Cuwtain OwOS");
 	else STRING_TO_UWU("debian", "Debinyan");
 	else STRING_TO_UWU("endeavouros", "endeavOwO");
 	else STRING_TO_UWU("EndeavourOS", "endeavOwO");
@@ -851,7 +851,7 @@ void uwu_kernel(char* kernel) {
 		else KERNEL_TO_UWU(splitted[i], "amogos", "AmogOwOS");
 		else KERNEL_TO_UWU(splitted[i], "arch", "Nyarch Linuwu");
 		else KERNEL_TO_UWU(splitted[i], "artix", "Nyartix Linuwu");
-		else KERNEL_TO_UWU(splitted[i], "curtainos", "Cuwtain OwOpewating Systems");
+		else KERNEL_TO_UWU(splitted[i], "curtainos", "Cuwtain OwOS");
 		else KERNEL_TO_UWU(splitted[i], "debian", "Debinyan");
 		else KERNEL_TO_UWU(splitted[i], "endeavouros", "endeavOwO");
 		else KERNEL_TO_UWU(splitted[i], "EndeavourOS", "endeavOwO");
