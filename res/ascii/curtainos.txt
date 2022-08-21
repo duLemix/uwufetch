@@ -2,6 +2,6 @@
 {RED} |    /  /{CYAN}____ 
 {RED} | '   /      {CYAN}|
 {RED} |   /   {GREEN}_    {CYAN}|
-{YELLOW} ====   {GEREN}<'\_  {CYAN}|
+{YELLOW} ====   {GREEN}<'\_  {CYAN}|
 {RED} | '|{CYAN}____{GREEN}\__7{CYAN}_|
 {RED} |  |
